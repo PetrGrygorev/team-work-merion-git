@@ -1,0 +1,12 @@
+# Visual Studio Code
+.vscode/*
+
+# A Local history for visual studio code
+.history/
+
+# Ignore all local history of files
+.history
+.ionide
+
+# Built visual studio code extensions
+*.vsix
